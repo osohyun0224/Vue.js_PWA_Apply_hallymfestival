@@ -1,0 +1,15 @@
+{
+    "background_color": "purple",
+    "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "한림대 비봉축전",
+    "short_name": "한림대",
+    "start_url": "/"
+  }
