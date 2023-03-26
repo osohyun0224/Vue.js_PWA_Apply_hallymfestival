@@ -6,7 +6,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVoluntain-SKKU%2FHallymFestival2023-Backend-&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## [Development Preview: https://hallymfes2023-dev.vercel.app/](https://hallymfes2023-dev.vercel.app/)
 </div>
 
 ## Front-end Team ✨
@@ -21,7 +20,7 @@
 
 2023 한림대학교 비봉축전 웹어플리케이션 - PWA 삽질기 입니다.
 
-안녕하세요, 저거 구현한 주인장 @osohyun0224 입니다.
+안녕하세요, 저거 구현한 주인장 [@osohyun0224](https://github.com/osohyun0224) 입니다.
 
 Vue.js 프로젝트에서 PWA를 구현하는 과정을 담은 안내서를 작성하고자 삽질기를 리드미에 작성합니다..
 
@@ -160,7 +159,9 @@ npm i @vue/cli-plugin-pwa
 
 #### [내 코드 보기]
 (1) 파일 구조도부터 살펴보기
+
 ![](https://velog.velcdn.com/images/osohyun0224/post/08432cee-5ac5-47d5-a990-3222fb34cdb3/image.png)
+
 ![](https://velog.velcdn.com/images/osohyun0224/post/01f8044d-e11b-492c-bcf2-9f4648739b22/image.png)
 
 위의 구조들 처럼 서비스워커 파일들이 들어가있어야합니다.
